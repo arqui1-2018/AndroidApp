@@ -1,0 +1,4 @@
+#Sun Sep 02 14:16:42 CST 2018
+base.0=/home/edwin/Documentos/Arqui1/AndroidApp/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
